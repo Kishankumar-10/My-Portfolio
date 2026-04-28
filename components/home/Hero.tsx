@@ -5,7 +5,7 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { Github, Linkedin, Mail, ChevronDown } from "lucide-react";
-import profile from "@/personal-portfolio/src/assets/profile.png";
+import profile from "@/public/assets/profile.png";
 
 import { SectionContainer } from "../layout/SectionContainer";
 
