@@ -156,7 +156,7 @@ export function Hero() {
                     >
                       {/* CTA Button */}
                       <Link
-                        href="/kishan k.resume.pdf"
+                        href="/resume.pdf"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="group relative inline-flex items-center justify-center px-8 md:px-10 py-3 md:py-4 font-bold text-background transition-all duration-300 w-full sm:w-auto"
