@@ -26,6 +26,14 @@ export const certifications: Certification[] = [
     featured: true,
   },
   {
+    id: 6,
+    name: "Data Analysis Using Python",
+    issuer: "Coursera",
+    year: "2026",
+    status: "Completed",
+    image: "/certificates/data_analysis_using_python.jpg",
+  },
+  {
     id: 2,
     name: "Introduction to Internet of Things",
     issuer: "NPTEL (IIT Kharagpur)",

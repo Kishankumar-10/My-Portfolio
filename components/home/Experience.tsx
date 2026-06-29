@@ -9,13 +9,19 @@ const experiences = [
   {
     role: "Full Stack Developer Intern",
     company: "Chiac ASI (AI-focused venture)",
-    duration: "2026 — Present",
+    duration: "Feb 2026 — May 2026",
     description: [
       "Developing an AI-based research summarization feature to extract structured insights from academic papers",
       "Building a classroom-style course management system with role-based authentication flows",
       "Implementing core application features and responsive UI components for seamless user interaction",
     ],
     techStack: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    buttons: [
+      {
+        label: "View Certificate",
+        path: "/certificates/chiac_asi_certificate.jpg",
+      },
+    ],
   },
   {
     role: "Full Stack Developer",
