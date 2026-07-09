@@ -15,6 +15,13 @@ export function FeaturedProjects() {
       link: "https://github.com/Kishankumar-10/AI_Shield-With-Anomaly-Detection",
     },
     {
+      title: "AI Travel Agent",
+      description:
+        "A stateful AI-powered travel assistant that searches real-time flights and hotels, generates personalized itineraries, and automates itinerary email delivery using a multi-agent LLM workflow.",
+      techStack: ["Python", "LangGraph", "LangChain", "Streamlit", "FastAPI", "SerpAPI", "Groq LLM"],
+      link: "https://github.com/Kishankumar-10/Ai_travel_agent",
+    },
+    {
       title: "QuizFlow — Quiz App",
       description:
         "A mobile quiz app for developers with focus modes and customizable practice sessions.",
